@@ -1,0 +1,10 @@
+
+// Typed Text
+var typed = new Typed('#typed', {
+    stringsElement: '#typed-strings',
+    typeSpeed: 80,
+    loop: true,
+    strings: [
+         'Full Stack Engineer','Next/React Developer', 'Web Developer',
+    ],
+});
